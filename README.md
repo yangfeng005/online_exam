@@ -8,9 +8,9 @@
 
 ## 项目演示
 
-管理端：http://peakcrest.cn   账号密码：admin/123456
+管理端：http://119.29.209.39   账号密码：admin/123456
 
-考生端：http://peakcrest.cn:8090   账号密码：zhangsan/123456
+考生端：http://119.29.209.39:8090   账号密码：zhangsan/123456
 
 ## 技术栈
 
