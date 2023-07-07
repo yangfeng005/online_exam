@@ -38,7 +38,7 @@
 
 填空题富文本自定义组件支持：
 
-![WX20230707-111837@2x](/Users/yangfeng/Documents/exam/images/WX20230707-111837@2x.png)
+![WX20230707-111837@2x](images/WX20230707-111837@2x.png)
 
 ### 多种组卷方式
 
