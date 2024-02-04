@@ -24,7 +24,7 @@
 
    小程序截图：
 
-  <img src="images/20240204131946.jpg" alt="WX20240204131946" style="zoom:25%;" /><img src="images/20240204131336.jpg" alt="WX20240204131336" style="zoom:25%;" /><img src="images/20240204131345.jpg" alt="WX20240204131345" style="zoom:25%;" />
+  <img src="images/20240204131946.jpg" alt="WX20240204131946" style="zoom:25%;" /><img src="images/20240204131336.jpg" alt="WX20240204131336" style="zoom:25%;" /><img src="images/20240204142758.jpg" alt="WX20240204131345" style="zoom:25%;" />
 
 
 
