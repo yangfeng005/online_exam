@@ -23,10 +23,7 @@
    考生PC端：http://exam.farsailing.com:8090   账号密码：zhangsan/123456
 
    小程序截图：
-
-<img src="images/20240204131946.jpg" alt="WX20231201-023212@2x" style="zoom:25%;" />
-<img src="images/20240204131336.jpg" alt="WX20231201-023212@2x" style="zoom:25%;" />
-<img src="images/20240204131345.jpg" alt="WX20231201-023212@2x" style="zoom:25%;" />
+![WX20240204131946](images/20240204131946.png)![WX20240204131336](images/20240204131336.png)![WX20240204131345](images/20240204131345.png)
 
    请扫码体验：       
 
