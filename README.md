@@ -26,6 +26,7 @@
 | 10   | MySQL          | 8.0.40                       |
 | 11   | redis          | 5.0.7                        |
 | 12   | node.js        | 18.12.1                      |
+| 13   | vuedraggable   | [4.1.0]()                    |
 
 ## 三、开发环境
 
@@ -39,11 +40,11 @@
 
 PC端：   
 
-   管理端：https://www.minglina.com/admin   账号密码：admin/Aa123456@admin
+   [管理端：](https://www.minglina.com/admin)   账号密码：admin/Aa123456@admin
 
-   考生端：https://www.minglina.com/student  账号密码：zhangsan/Aa123456@zhangsan
+   [考生端：](https://www.minglina.com/student)  账号密码：zhangsan/Aa123456@zhangsan
 
-h5端：https://www.minglina.com/h5  账号密码：zhangsan/Aa123456@zhangsan
+   [h5端：](https://www.minglina.com/h5)  账号密码：zhangsan/Aa123456@zhangsan
 
 安卓app安装包：[exam.apk](install/exam.apk)
 
@@ -204,6 +205,18 @@ h5端：https://www.minglina.com/h5  账号密码：zhangsan/Aa123456@zhangsan
 ### 14.多维度统计成绩
 
    呈现考试的成绩、用时、正确率、得分率、是否及格，所有考生本次考试的基本情况一目了然，管理员可免去手动计算的时间，使工作效率更高。对于考生多次参加考试的情况，系统生成的成绩统计报表，默认根据最好成绩统计，报表中会按考生最好的一次考试成绩进行排名，还能看到考生姓名、参加次数。
+
+### 15.问卷调查
+
+问卷设计器：
+
+![WX20250425-132812@2x](images/WX20250425-132812@2x.png)
+
+发布的问卷：
+
+![WX20250425-133629@2x](images/WX20250425-133629@2x.png)
+
+
 
 ## 六、咨询
 
