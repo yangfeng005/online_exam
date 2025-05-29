@@ -46,7 +46,11 @@ PC端：
 
    [h5端：](https://www.minglina.com/h5)  账号密码：zhangsan/Aa123456@zhangsan
 
-安卓app安装包：[exam.apk](install/exam.apk)
+安卓app:
+
+​      安装包：[exam.apk](install/exam.apk)
+
+​      [应用商店下载](http://app.xiaomi.com/detail/1671872)
 
 小程序截图：
 
