@@ -2,7 +2,7 @@
 
 ##  一、产品简介
 
-​	云学考学习考试系统是基于springboot+vue3开发的在线教育平台。设计美观、前后端分离、部署简单，支持课程购买、课程学习、考试付费、在线考试、在线练习、问卷调查。移动端使用uniapp开发，已上线小程序、h5、android、IOS。
+​	云学考学习考试系统是基于springboot+vue3开发的在线教育平台。设计美观、前后端分离、部署简单，支持课程购买、课程学习、考试付费、在线考试、在线练习、问卷调查。移动端使用uniapp开发，已上线小程序、h5、android、IOS。android app已上架华为、腾讯、小米、荣耀应用市场。
 
 <img src="images/云学考管理端思维导图.jpg" alt="pc_admin" style="zoom:10%;" />
 
@@ -48,13 +48,11 @@ PC端：
 
 安卓app:
 
-​      安装包：[exam.apk](install/exam.apk)
+​      安装包下载：[exam.apk](install/exam.apk)
 
-​      [应用商店下载](http://app.xiaomi.com/detail/1671872)
+​      [应用市场下载](https://mp.weixin.qq.com/s/aUPMZAh3bLZ1dauU82GiiQ)
 
 小程序截图：
-
-  
 
 | ![20240204131946](images/WechatIMG852.jpg) | ![20240204142758](images/WechatIMG841.jpg) | ![20240204131336](images/WechatIMG853.jpg)  |
 | ------------------------------------------ | ------------------------------------------ | ------------------------------------------- |
