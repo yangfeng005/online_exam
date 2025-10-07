@@ -2,7 +2,7 @@
 
 ##  一、产品简介
 
-​	云学考学习考试系统是基于springboot+vue3开发的在线教育平台。设计美观、前后端分离、部署简单，支持课程购买、课程学习、直播课程、考试付费、在线考试、在线练习、问卷调查。移动端使用uniapp开发，已上线小程序、h5、android、IOS。android app已上架华为、腾讯、小米、荣耀、OPPO应用商店。
+​	云学考学习考试系统是基于springboot+vue3+uniapp开发的在线教育平台。设计美观、前后端分离、部署简单，支持课程购买、课程学习、直播课程、考试付费、在线考试、在线练习、问卷调查。移动端使用uniapp开发，已上线小程序、h5、android、IOS。android app已上架华为、腾讯、小米、荣耀、OPPO应用商店。
 
 <img src="images/云学考管理端思维导图.jpg" alt="pc_admin" style="zoom:10%;" />
 
