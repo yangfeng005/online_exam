@@ -2,7 +2,7 @@
 
 ##  一、产品简介
 
-​	云学考学习考试系统是基于springboot+vue3+uniapp开发的在线教育平台。设计美观、前后端分离、部署简单，支持课程购买、课程学习、直播课程、考试付费、在线考试、在线练习、问卷调查、监考大屏、AI大模型、AI知识库、AI流程编排。移动端使用uniapp开发，已上线小程序、h5、android、IOS。android app已上架华为、腾讯、小米、荣耀、OPPO应用商店。
+​	云学考学习考试系统是基于springboot+vue3+uniapp开发的在线教育平台。设计美观、前后端分离、部署简单，支持课程购买、课程学习、直播课程、考试付费、在线考试、在线练习、问卷调查、监考大屏、AI应用门户、AI大模型、MCP、AI知识库、AI流程设计、AI工具箱。移动端使用uniapp开发，已上线小程序、h5、android、IOS。android app已上架华为、腾讯、小米、荣耀、OPPO应用商店。
 
 <img src="images/云学考管理端思维导图.jpg" alt="pc_admin" style="zoom:10%;" />
 
@@ -18,7 +18,7 @@
 | 2    | Vite           | 6.4.0                        |
 | 3    | ant-design-vue | 4.2.6                        |
 | 4    | springboot     | 3.5.5                        |
-| 5    | jeecgboot      | 3.8.3                        |
+| 5    | jeecgboot      | 3.9.1                        |
 | 6    | minio          | RELEASE.2023-04-13T03-08-07Z |
 | 7    | uniapp         | —                            |
 | 8    | uview-ui       | 2.0.38                       |
