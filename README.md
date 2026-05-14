@@ -60,10 +60,10 @@ PC端：
 
 小程序截图：
 
-| ![20240204131946](images/WechatIMG852.jpg) | ![20240204142758](images/WechatIMG1225.jpg) | ![20240204131](images/WechatIMG1242.jpg)    |
-| ------------------------------------------ | ------------------------------------------- | ------------------------------------------- |
-| ![WechatIMG698](images/WechatIMG1222.jpg)  | ![WechatIMG848](images/WechatIMG848.jpg)    | ![20240204142758](images/WechatIMG1078.jpg) |
-| ![WechatIMG1079](images/WechatIMG1079.jpg) | ![WechatIMG64](images/WechatIMG64.jpg)      | ![WechatIMG1239](images/WechatIMG1239.jpg)  |
+| ![20240204131946](images/WechatIMG852.jpg) | ![20240204142758](images/WechatIMG1225.jpg)                | ![20240204131](images/WechatIMG1242.jpg)                     |
+| ------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------ |
+| ![WechatIMG698](images/WechatIMG1222.jpg)  | ![WechatIMG848](images/微信图片_20260514131332_302_16.jpg) | ![20240204142758](images/微信图片_20260514131203_299_16.jpg) |
+| ![WechatIMG1079](images/WechatIMG1079.jpg) | ![WechatIMG64](images/WechatIMG64.jpg)                     | ![WechatIMG1239](images/WechatIMG1239.jpg)                   |
 
  扫码体验：       
 
