@@ -2,7 +2,7 @@
 
 ##  一、产品简介
 
-​	基于springboot+vue3+uniapp开发的在线教育平台。设计美观、前后端分离、部署简单，支持课程购买、课程学习、直播课程、考试付费、在线考试、在线练习、问卷调查、监考大屏、AI应用门户、AI大模型、MCP、AI知识库、AI流程设计、AI工具箱。移动端使用uniapp开发，已上线小程序、h5、android、IOS。android app已上架华为、腾讯、小米、荣耀、OPPO应用商店。
+​	基于springboot3+vue3+uniapp开发的在线教育平台。课程购买、课程学习、直播课程、考试付费、在线考试、证书颁发、在线练习、问卷调查、监考大屏、AI大模型。移动端使用uniapp开发，已上线微信小程序、h5、android、IOS。安卓app已上架华为、腾讯应用宝、小米、荣耀、OPPO应用商店。
 
 <img src="images/云学考管理端思维导图.jpg" alt="pc_admin" style="zoom:10%;" />
 
@@ -69,7 +69,7 @@ PC端：
 
 <img src="images/云学考.png" alt="云学考" style="zoom:25%;" />
 
-
+更多详情请移步[公司官网](https://www.minglina.com)了解。
 
 ## 五、产品功能
 
