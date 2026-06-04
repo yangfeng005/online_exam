@@ -48,6 +48,8 @@ PC端：
 
    [管理端：](https://www.minglina.com/admin)   账号密码：admin/Aa123456@admin
 
+![QQ20260603-210834](images/QQ20260603-210834.png)
+
    [考生端：](https://www.minglina.com/student)  账号密码：zhangsan/Aa123456@zhangsan
 
    [h5端：](https://www.minglina.com/h5)  账号密码：zhangsan/Aa123456@zhangsan
