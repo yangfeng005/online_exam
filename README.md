@@ -69,7 +69,7 @@ PC端：
 
  扫码体验：       
 
-![gh_6eff517a1518_344](images/gh_6eff517a1518_344.jpg)
+![gh_93833ef9d849_258](images/gh_93833ef9d849_258.jpg)
 
 更多详情请移步[公司官网](https://www.minglina.com)了解。
 
