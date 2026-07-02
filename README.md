@@ -69,7 +69,7 @@ PC端：
 
  扫码体验：       
 
-<img src="images/云学考.png" alt="云学考" style="zoom:25%;" />
+![gh_6eff517a1518_344](images/gh_6eff517a1518_344.jpg)
 
 更多详情请移步[公司官网](https://www.minglina.com)了解。
 
