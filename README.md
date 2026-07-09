@@ -4,9 +4,9 @@
 
 ​	基于springboot3+vue3+uniapp开发的在线教育平台。课程购买、课程学习、直播课程、AI智能出题、AI智能组卷、考试付费、在线考试、证书颁发、在线练习、问卷调查、监考大屏、AI大模型、多语言国际化。移动端使用uniapp开发，已上线微信小程序、h5、android、IOS。安卓app已上架华为、腾讯应用宝、小米、荣耀、OPPO应用商店。
 
-<img src="images/云学考管理端思维导图.jpg" alt="pc_admin" style="zoom:10%;" />
+<img src="images/管理端.jpg" alt="pc_admin" style="zoom:10%;" />
 
-<img src="images/云学考考生端.jpg" alt="ksd" style="zoom:10%;" />
+<img src="images/考生端移动端.jpg" alt="ksd" style="zoom:10%;" />
 
 ## 二、采用技术方案
 
