@@ -14,11 +14,11 @@
 
 | 序号 | 技术名称       | 版本号                       |
 | ---- | -------------- | ---------------------------- |
-| 1    | Vue3           | 3.5.22                       |
-| 2    | Vite           | 6.4.0                        |
+| 1    | Vue3           | 3.5.42                       |
+| 2    | Vite           | 8.3.0                        |
 | 3    | ant-design-vue | 4.2.6                        |
-| 4    | springboot     | 3.5.5                        |
-| 5    | jeecgboot      | 3.9.1                        |
+| 4    | springboot     | 4.1.0                        |
+| 5    | jeecgboot      | 3.9.5                        |
 | 6    | minio          | RELEASE.2023-04-13T03-08-07Z |
 | 7    | uniapp         | —                            |
 | 8    | uview-ui       | 2.0.38                       |
@@ -28,7 +28,7 @@
 | 12   | node.js        | 20.15.0                      |
 | 13   | vuedraggable   | [4.1.0]()                    |
 | 14   | JDK            | 17.0.16                      |
-| 15   | mybatis-plus   | 3.5.12                       |
+| 15   | mybatis-plus   | 3.5.16                       |
 | 16   | pnpm           | 10.18.3                      |
 | 17   | LiveKit        | 1.13.5                       |
 
