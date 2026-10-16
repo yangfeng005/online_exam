@@ -73,9 +73,7 @@ PC端：
 
 安卓app:
 
-​      安装包下载：[exam.apk](install/exam.apk)
-
-​      [应用市场下载](https://mp.weixin.qq.com/s/aUPMZAh3bLZ1dauU82GiiQ)
+​      [应用市场安装](https://mp.weixin.qq.com/s/aUPMZAh3bLZ1dauU82GiiQ)
 
 小程序截图：
 
